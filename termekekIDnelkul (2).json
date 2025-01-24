@@ -1,0 +1,298 @@
+{
+  "termekek": [
+    {
+      "termeknev": "Okosóra",
+      "leiras": "Modern okosóra életmód követéssel és szívritmus-méréssel.",
+      "ar": 29990,
+      "mennyiseg": 50,
+      "keplink": "https://images.unsplash.com/photo-1558126319-c9feecbf57ee"
+    },
+    {
+      "termeknev": "Okostelefon",
+      "leiras": "Legújabb generációs okostelefon kiváló kamerával és hosszú akkumulátor-élettartammal.",
+      "ar": 199990,
+      "mennyiseg": 30,
+      "keplink": "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+    },
+    {
+      "termeknev": "Laptop",
+      "leiras": "Könnyű és hatékony laptop otthoni és irodai használatra.",
+      "ar": 349990,
+      "mennyiseg": 20,
+      "keplink": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    {
+      "termeknev": "Fülhallgató",
+      "leiras": "Zajszűrős vezeték nélküli fülhallgató kiváló hangminőséggel.",
+      "ar": 49990,
+      "mennyiseg": 100,
+      "keplink": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "termeknev": "Tablet",
+      "leiras": "Nagy kijelzős tablet gyors processzorral és hosszú akkumulátor-élettartammal.",
+      "ar": 89990,
+      "mennyiseg": 40,
+      "keplink": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0"
+    },
+    {
+      "termeknev": "E-könyv olvasó",
+      "leiras": "Kényelmes e-könyv olvasó hosszú akkumulátor-élettartammal.",
+      "ar": 39990,
+      "mennyiseg": 25,
+      "keplink": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "termeknev": "Bluetooth hangszóró",
+      "leiras": "Hordozható Bluetooth hangszóró kiváló hangminőséggel.",
+      "ar": 24990,
+      "mennyiseg": 60,
+      "keplink": "https://images.unsplash.com/photo-1487180144351-b8472da7d491"
+    },
+    {
+      "termeknev": "Gamer egér",
+      "leiras": "Professzionális gamer egér programozható gombokkal.",
+      "ar": 14990,
+      "mennyiseg": 35,
+      "keplink": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7"
+    },
+    {
+      "termeknev": "Mechanikus billentyűzet",
+      "leiras": "Mechanikus billentyűzet RGB világítással.",
+      "ar": 19990,
+      "mennyiseg": 45,
+      "keplink": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "termeknev": "Monitor",
+      "leiras": "27 hüvelykes 4K felbontású monitor.",
+      "ar": 89990,
+      "mennyiseg": 15,
+      "keplink": "https://images.unsplash.com/photo-1542751371-adc38448a05e"
+    },
+    {
+      "termeknev": "Nyomtató",
+      "leiras": "Színes lézernyomtató gyors nyomtatási sebességgel.",
+      "ar": 49990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1597871040916-cc3ac1bdc55b"
+    },
+    {
+      "termeknev": "Webkamera",
+      "leiras": "HD webkamera beépített mikrofonnal.",
+      "ar": 9990,
+      "mennyiseg": 50,
+      "keplink": "https://images.unsplash.com/photo-1603314585442-ee3b3c16fbcf"
+    },
+    {
+      "termeknev": "Külső merevlemez",
+      "leiras": "1TB-os külső merevlemez USB 3.0 csatlakozóval.",
+      "ar": 14990,
+      "mennyiseg": 30,
+      "keplink": "https://images.unsplash.com/photo-1592890288564-76643d8f4e2b"
+    },
+    {
+      "termeknev": "USB pendrive",
+      "leiras": "128GB-os USB pendrive gyors adatátvitellel.",
+      "ar": 4990,
+      "mennyiseg": 100,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Hátizsák",
+      "leiras": "Tartós hátizsák laptop rekeszsel.",
+      "ar": 7990,
+      "mennyiseg": 40,
+      "keplink": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "termeknev": "Egérpad",
+      "leiras": "Nagy méretű egérpad sima felülettel.",
+      "ar": 2990,
+      "mennyiseg": 80,
+      "keplink": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7"
+    },
+    {
+      "termeknev": "Kábelrendszervező",
+      "leiras": "Kábelrendszervező szett asztali rendszerezéshez.",
+      "ar": 1990,
+      "mennyiseg": 120,
+      "keplink": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "termeknev": "USB hub",
+      "leiras": "4 portos USB hub kompakt designnal.",
+      "ar": 3990,
+      "mennyiseg": 60,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Laptop hűtő",
+      "leiras": "Hűtőalátét laptopokhoz hosszú élettartammal.",
+      "ar": 5990,
+      "mennyiseg": 25,
+      "keplink": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0"
+    },
+    {
+      "termeknev": "Okostelefon tartó",
+      "leiras": "Autós okostelefon tartó szívószálas rögzítéssel.",
+      "ar": 2990,
+      "mennyiseg": 70,
+      "keplink": "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+    },
+    {
+      "termeknev": "Kávéfőző",
+      "leiras": "Automatikus kávéfőző beépített őrlővel.",
+      "ar": 39990,
+      "mennyiseg": 15,
+      "keplink": "https://images.unsplash.com/photo-1497515114629-f71d768fd07c"
+    },
+    {
+      "termeknev": "Porszívó robot",
+      "leiras": "Okos porszívó robot térképfelismeréssel.",
+      "ar": 79990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3"
+    },
+    {
+      "termeknev": "Légtisztító",
+      "leiras": "Helyiség légtisztító HEPA szűrővel.",
+      "ar": 49990,
+      "mennyiseg": 20,
+      "keplink": "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3"
+    },
+    {
+      "termeknev": "Házi hangszóró",
+      "leiras": "Okos házi hangszóró Wi-Fi és Bluetooth kapcsolattal.",
+      "ar": 29990,
+      "mennyiseg": 30,
+      "keplink": "https://images.unsplash.com/photo-1487180144351-b8472da7d491"
+    },
+    {
+      "termeknev": "LED izzó",
+      "leiras": "Energiatakarékos LED izzó 10W teljesítménnyel.",
+      "ar": 1990,
+      "mennyiseg": 200,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos lámpa",
+      "leiras": "RGB okos lámpa alkalmazással vezérelhető.",
+      "ar": 4990,
+      "mennyiseg": 50,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Távirányító",
+      "leiras": "Univerzális távirányító okostévékhez.",
+      "ar": 2990,
+      "mennyiseg": 40,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos zároló",
+      "leiras": "Okos zároló Bluetooth kapcsolattal.",
+      "ar": 19990,
+      "mennyiseg": 20,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos kameracsomag",
+      "leiras": "2 db okos kamerás biztonsági csomag.",
+      "ar": 49990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos óra gyerekeknek",
+      "leiras": "Okos óra gyerekeknek GPS követéssel.",
+      "ar": 19990,
+      "mennyiseg": 15,
+      "keplink": "https://images.unsplash.com/photo-1558126319-c9feecbf57ee"
+    },
+    {
+      "termeknev": "Okos fűnyíró",
+      "leiras": "Robot fűnyíró automata működéssel.",
+      "ar": 99990,
+      "mennyiseg": 5,
+      "keplink": "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3"
+    },
+    {
+      "termeknev": "Okos hőmérő",
+      "leiras": "Okos hőmérő Wi-Fi kapcsolattal.",
+      "ar": 9990,
+      "mennyiseg": 30,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos vízmérő",
+      "leiras": "Okos vízmérő fogyasztáskövetéssel.",
+      "ar": 14990,
+      "mennyiseg": 20,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos kaputelefon",
+      "leiras": "Okos kaputelefon kamerával és mikrofonnal.",
+      "ar": 29990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos zár",
+      "leiras": "Okos zár ujjlenyomat olvasóval.",
+      "ar": 39990,
+      "mennyiseg": 15,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos tükör",
+      "leiras": "Okos tükör beépített LED világítással.",
+      "ar": 49990,
+      "mennyiseg": 5,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos párna",
+      "leiras": "Okos párna alvásminőség követéssel.",
+      "ar": 19990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos súlymérő",
+      "leiras": "Okos súlymérő testzsírszázalék méréssel.",
+      "ar": 14990,
+      "mennyiseg": 20,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos edzősíp",
+      "leiras": "Okos edzősíp Bluetooth kapcsolattal.",
+      "ar": 9990,
+      "mennyiseg": 30,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos falióra",
+      "leiras": "Okos falióra időjárásjelzéssel.",
+      "ar": 14990,
+      "mennyiseg": 15,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos légpárna",
+      "leiras": "Okos légpárna masszírozó funkcióval.",
+      "ar": 29990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    },
+    {
+      "termeknev": "Okos kerti locsoló",
+      "leiras": "Okos kerti locsoló időzítővel.",
+      "ar": 19990,
+      "mennyiseg": 10,
+      "keplink": "https://images.unsplash.com/photo-1592890677861-6d6b3c8c0e0b"
+    }
+  ]
+}

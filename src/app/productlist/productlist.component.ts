@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { ProductlistService } from '../productlist.service';
+import { CartService } from '../cart.service';
 
 @Component({
   selector: 'app-productlist',
@@ -9,9 +10,14 @@ import { ProductlistService } from '../productlist.service';
 export class ProductlistComponent {
   products:any
 
-  constructor(private pserv:ProductlistService){
+  constructor(private pserv:ProductlistService, private cartServ:CartService){
     this.pserv.getProducts().subscribe(
       (termekek)=>this.products=termekek
     )
   }
+
+  addProduct(product:any){
+    this.cartServ.addProduct(product)
+  }
+
 }

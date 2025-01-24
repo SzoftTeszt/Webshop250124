@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CartService } from '../cart.service';
 
 @Component({
   selector: 'app-navbar',
@@ -6,5 +7,15 @@ import { Component } from '@angular/core';
   styleUrl: './navbar.component.css'
 })
 export class NavbarComponent {
+ cart:any
+  constructor(private cartServ:CartService){
+    this.cartServ.getCart().subscribe(
+      (res)=>this.cart=res
+    )
+ }
 
+ addOrder(){
+  this.cartServ.order()
+  
+ }
 }
